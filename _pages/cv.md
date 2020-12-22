@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Informatics, Institut Teknologi Bandung, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017: Software Engineering Intern
+  * Traveloka
+  * Duties included: Improving performance of platform services
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-current: Software Engineer
+  * Traveloka
+  * Duties included: Improving performance of platform services, collaborating with several other teams to create new product
   
 Skills
 ======
