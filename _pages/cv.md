@@ -15,22 +15,22 @@ Education
 
 Work experience
 ======
-* 2017: Software Engineering Intern
-  * Traveloka
-  * Duties included: Improving performance of platform services
-
 * 2019-current: Software Engineer
   * Traveloka
   * Duties included: Improving performance of platform services, collaborating with several other teams to create new product
+
+* 2017: Software Engineering Intern
+  * Traveloka
+  * Duties included: Improving performance of platform services
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Development
+* Programming Languange
+  * Kotlin
+  * Java
+  * Python
+  * JavaScript
 
 Publications
 ======
@@ -40,4 +40,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Contributing to open source apps
