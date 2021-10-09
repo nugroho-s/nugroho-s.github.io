@@ -6,7 +6,7 @@ excerpt: 'This paper is about the usage of Gaussian mixture model to improve the
 date: 2019-03-13
 venue: '2019 International Conference of Artificial Intelligence and Information Technology (ICAIIT)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8834463/'
-citation: 'N. Satriyanto, R. Munir, and Harlili, &quotDynamic background video forgery detection using gaussian mixture model,&quot 2019 International Conference of Artificial Intelligence and Information Technology (ICAIIT), 2019.'
+citation: 'N. Satriyanto, R. Munir, and Harlili, &quot;Dynamic background video forgery detection using gaussian mixture model,&quot; 2019 International Conference of Artificial Intelligence and Information Technology (ICAIIT), 2019.'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8834463/)
