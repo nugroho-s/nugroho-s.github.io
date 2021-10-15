@@ -37,6 +37,10 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards and Achievements
+======
+* Grand Finalist Telkom Hackathon 2018
   
 Service and leadership
 ======
