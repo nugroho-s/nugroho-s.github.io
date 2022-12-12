@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -87,7 +87,7 @@ author:
   employer         : "Traveloka"
   pubmed           :
   googlescholar    : "https://scholar.google.co.id/citations?hl=id&user=Zec41b4AAAAJ"
-  email            : "nugroho.s@outlook.co.id"
+  email            : "nugroho@nugsky.me"
   researchgate     : "https://www.researchgate.net/profile/Nugroho-Satriyanto"
   uri              :
   bitbucket        :
